@@ -8,12 +8,16 @@
   * @param {?} value - value to fill 
   * @returns {Array} 
 */
-const fill = (arraySize, value) => {
- throw new Error('Put your solution here');
-}
-const data = 3;
-const valueToFill = 'a';
-console.log(fill(data, valueToFill)) // ['a', 'a', 'a']
+//let array1 = (a, b, c)
+
+//(2, 'a') => {
+  //if (arraySize <= 0) {
+    //return ['a'];
+  //}
+  //const newArray = new Array(arraySize);
+  //newArray.fill(value);
+  //return newArray;
+//}
 
 // Problem Two
 
@@ -39,11 +43,14 @@ console.log(reverse(data)); // [3, 2, 1]
   * @param {Array} array - An array of any elements 
   * @returns {Array} 
 */
-const compact = (array) => {
- throw new Error('Put your solution here');
-}
-const data = [0, 1, false, 2, undefined, '', 3, null];
-console.log(compact(data)) // [1, 2, 3]
+//const compact = (array) => {
+ //throw new Error('Put your solution here');
+//}
+//const data = [0, 1, false, 2, undefined, '', 3, null];
+//console.log(compact(data)) // [1, 2, 3]
+
+
+
 
 // Problem Four
 
